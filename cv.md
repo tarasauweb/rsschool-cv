@@ -6,6 +6,15 @@
 
 ********************************
 
+## Contacts :
+* Phone: +375-33-320-37-16
+* Email : tarasov.a.web@gmail.com
+* Discord : tarasovWeb
+* GitHub : tarasovweb
+* Freelance.ru : https://freelance.ru/itarasovv
+
+********************************
+
 
 ## Courses :
 
