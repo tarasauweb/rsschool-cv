@@ -16,6 +16,50 @@
 ********************************
 
 
+## About Myself :
+
+ ### Hi, I'm Artur Tarasov
+ #### frontend and web developer
+ My career started in 2018 as a freelancer.I'm study on a web developer in Ukraine online-school.After combined freelancing and main job.I want learn next and work front-end developer.  "I was born for dev."
+
+ ********************************
+
+ ## Skills :
+ * HTML
+ * CSS
+ * JS
+ * React (little)
+ * Figma (for dev)
+ * Git/GitHub
+ * Bootstrap
+ * BEM
+ 
+ ********************************
+
+ ## Code example:
+
+ ```
+    function moveZeros(arr) {
+    let newArr = []
+    newArr = arr.filter((item)=>{
+        return item !== 0
+    })
+    let newArr2 = arr.filter((item)=>{
+        return item === 0
+    })
+    let newArr3 = newArr.concat(newArr2)
+    return newArr3
+
+    }
+```
+
+********************************
+
+## Experience: 
+https://github.com/tarasovweb/school
+
+********************************
+
 ## Courses :
 
 https://www.codewars.com/users/itarasovweb
