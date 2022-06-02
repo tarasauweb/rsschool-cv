@@ -2,10 +2,9 @@
 
 ********************************
 
-![photo](/img/photoRe.jpg "avatar")
+![photo](img/photoRe.jpg "avatar")
 
 ********************************
-
 ## Contacts :
 * Phone: +375-33-320-37-16
 * Email : tarasov.a.web@gmail.com
@@ -15,30 +14,29 @@
 
 ********************************
 
-
 ## About Myself :
 
- ### Hi, I'm Artur Tarasov
- #### frontend and web developer
- My career started in 2018 as a freelancer.I'm study on a web developer in Ukraine online-school.After combined freelancing and main job.I want learn next and work front-end developer.  "I was born for dev."
+### Hi, I'm Artur Tarasov
+#### frontend and web developer
+My career started in 2018 as a freelancer.I'm study on a web developer in Ukraine online-school.After combined freelancing and main job.I want learn next and work front-end developer. "I was born for dev."
 
- ********************************
+********************************
 
- ## Skills :
- * HTML
- * CSS
- * JS
- * React (little)
- * Figma (for dev)
- * Git/GitHub
- * Bootstrap
- * BEM
+## Skills :
+* HTML
+* CSS
+* JS
+* React (little)
+* Figma (for dev)
+* Git/GitHub
+* Bootstrap
+* BEM
  
- ********************************
+********************************
 
- ## Code example:
+## Code example:
 
- ```
+```
     function moveZeros(arr) {
     let newArr = []
     newArr = arr.filter((item)=>{
@@ -62,9 +60,10 @@ https://github.com/tarasovweb/school
 
 ## Courses :
 
-https://www.codewars.com/users/itarasovweb
+[Codewars](https://www.codewars.com/users/itarasovweb "codewars")
 
-https://www.freecodecamp.org/tarasovweb
+[Freecodecamp](https://www.freecodecamp.org/tarasovweb "freecodecamp")
+
 
 ## Languages :
 * Russian - Native
