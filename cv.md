@@ -10,7 +10,7 @@
 * Email : tarasov.a.web@gmail.com
 * Discord : tarasovWeb
 * GitHub : tarasovweb
-* Freelance.ru : https://freelance.ru/itarasovv
+* Freelance.ru :[Freelance](https://freelance.ru/itarasovv "Freelance")
 
 ********************************
 
@@ -54,7 +54,7 @@ My career started in 2018 as a freelancer.I'm study on a web developer in Ukrain
 ********************************
 
 ## Experience: 
-https://github.com/tarasovweb/school
+[School](https://github.com/tarasovweb/school "school")
 
 ********************************
 
