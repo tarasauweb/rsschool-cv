@@ -188,6 +188,34 @@ a{
 }
 /* end skills */
 
+/* aducation */
+
+.aducation__block{
+    display: flex;
+    font-weight: bold;
+    width: 300px;
+    height: 40px;
+    border-bottom: 3px solid #3f51b5;
+    justify-content: space-between;
+    margin-bottom: 50px;
+
+}
+.aducation__blocks{
+    margin-top: 50px;
+}
+/* end aducation */
+
+/* experience */
+.my-experience{
+    margin: 100px 0 100px 0;
+}
+
+.experience__link{
+    color: #fff;
+    margin-top: 30px;
+}
+/* end experience */
+
 /* code */
 
 .code__block{
@@ -199,9 +227,19 @@ a{
 .code__span_func{
     color:#e91e63;
 }
-
-
 /* end code */
+
+
+/* lang */
+
+.lang__blocks{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 50px 0;
+}
+
+
+/* end lang */
 
 /* footer */
 .footer{
