@@ -205,6 +205,20 @@ a{
 }
 /* end aducation */
 
+/* contact */
+
+.contact__link{
+    font-size: 18px;
+    color: #fff;
+}
+.contacts__block span{
+    display: block;
+}
+.contacts__block{
+    padding:20px 0;
+}
+/* end contact */
+
 /* experience */
 .my-experience{
     margin: 100px 0 100px 0;
