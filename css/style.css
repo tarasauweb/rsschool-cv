@@ -29,6 +29,9 @@ a{
     height: 100vh;
     width: 100%;
 }
+.header-container{
+    position: relative;
+}
 .logo{
     font-size: 22px;
     color: #fff;
@@ -142,7 +145,9 @@ a{
     height: 35px;
     display: inline-block;
     width: 120px;
-    position: relative;
+    position: absolute;
+    bottom: 10px;
+    left: 50px;
 }
 .btn-scroll {
     background-color: transparent;
