@@ -314,10 +314,7 @@ a{
 .code__span_func{
     color:#e91e63;
 }
-.pre-code{
-    margin-left: -100px;
-    font-size: 14px;
-}
+
 /* end code */
 
 
@@ -397,8 +394,11 @@ a{
 	-o-transform: rotate(45deg) translate(0,-2px);
 }
 
-@media screen and (min-width: 1200px){
+@media screen and (max-width: 1200px){
+    .container{
+        width: 97%;
 
+    }
 }
 
 @media screen and (max-width: 576px){
@@ -459,5 +459,9 @@ a{
     }
     .btnMenu{
         display: block;
+    }
+    .pre-code{
+        margin-left: -100px;
+        font-size: 14px;
     }
 }
