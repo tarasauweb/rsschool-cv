@@ -78,6 +78,9 @@ a{
     border: none;
     display: none;
 }
+.btnMenu span{
+    display: block;
+}
 .btnMenu__lineTop, .btnMenu__lineCenter, .btnMenu__lineBottom {
     width: 30px;
     height: 3px;
@@ -375,23 +378,23 @@ a{
 }
 
 .activeTop{
-	transform: rotate(-45deg) translate(0,5px);
-	-webkit-transform: rotate(-45deg) translate(0,5px);
-	-moz-transform: rotate(-45deg) translate(0,5px);
-	-ms-transform: rotate(-45deg) translate(0,5px);
-	-o-transform: rotate(-45deg) translate(0,5px);
+	transform: rotate(-45deg) translate(0,10px);
+	-webkit-transform: rotate(-45deg) translate(0,10px);
+	-moz-transform: rotate(-45deg) translate(0,10px);
+	-ms-transform: rotate(-45deg) translate(0,10px);
+	-o-transform: rotate(-45deg) translate(0,10px);
 }
 .activeCenter{
 	opacity: 0;
 	display:none;
 }
 .activeBottom{
-	transform: rotate(45deg) translate(0,-2px);
+	transform: rotate(45deg) translate(0,-10px);
 	width: 30px;
-	-webkit-transform: rotate(45deg) translate(0,-2px);
-	-moz-transform: rotate(45deg) translate(0,-2px);
-	-ms-transform: rotate(45deg) translate(0,-2px);
-	-o-transform: rotate(45deg) translate(0,-2px);
+	-webkit-transform: rotate(45deg) translate(0,-10px);
+	-moz-transform: rotate(45deg) translate(0,-10px);
+	-ms-transform: rotate(45deg) translate(0,-10px);
+	-o-transform: rotate(45deg) translate(0,-10px);
 }
 
 @media screen and (max-width: 1200px){
