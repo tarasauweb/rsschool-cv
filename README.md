@@ -1,1 +1,2 @@
-https://tarasovweb.github.io/rsschool-cv/cv
+https://tarasovweb.github.io/rsschool-cv/
+
