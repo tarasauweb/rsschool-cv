@@ -25,32 +25,37 @@
         <nav class="menu">
           <ul class="menu__items">
             <li class="menu__item">
-              <a href="" class="menu__link">
+              <a href="#about" class="menu__link">
                 About
               </a>
             </li>
             <li class="menu__item">
-              <a href="" class="menu__link">
+              <a href="#skills" class="menu__link">
                 Skills
               </a>
             </li>
             <li class="menu__item">
-              <a href="" class="menu__link">
+              <a href="#aducation" class="menu__link">
                 Aducation
               </a>
             </li>
             <li class="menu__item">
-              <a href="" class="menu__link">
+              <a href="#contacts" class="menu__link">
+                Contacts
+              </a>
+            </li>
+            <li class="menu__item">
+              <a href="#experience" class="menu__link">
                 Experience
               </a>
             </li>
             <li class="menu__item">
-              <a href="" class="menu__link">
+              <a href="#lang" class="menu__link">
                 Languages
               </a>
             </li>
             <li class="menu__item">
-              <a href="" class="menu__link">
+              <a href="#code" class="menu__link">
                 Code 
               </a>
             </li>
@@ -71,10 +76,10 @@
               Your project fly 'to the moon' , if I its developer
             </span>
           </p>
-          <button class="offer__btn">
+          <a href="#contacts" class="offer__btn">
             Contact Me
             <i class="fas fa-paper-plane"></i>
-          </button>
+          </a>
         </div>
         <div class="offer__right">
           <img src="img/photo.jpg" alt="photo" title="photo" class="offer__photo">
@@ -93,7 +98,7 @@
     </div>
   </header>
   <main class="main">
-    <section class="aboot-me">
+    <section class="aboot-me" id="about">
       <div class="container">
         <div class="about">
           <h2 class="about__title">
@@ -119,7 +124,7 @@
         </div>
       </div>
     </section>
-    <section class="aboot-me my-skills">
+    <section class="aboot-me my-skills" id="skills">
       <div class="container">
         <div class="skills">
           <h2 class="about__title skills__title">
@@ -167,7 +172,7 @@
         </div>
       </div>
     </section>
-    <section class="my-aducation">
+    <section class="my-aducation" id="aducation">
       <div class="container">
         <div class="aducation">
           <h2 class="about__title aducation__title">
@@ -233,7 +238,7 @@
         </div>
       </div>
     </section>  
-    <section class="contact-me">
+    <section class="contact-me" id="contacts">
       <div class="container">
         <div class="contacts">
           <h2 class="about__title contacts__title">
@@ -263,20 +268,25 @@
         </div>
       </div>
     </section>
-    <section class="my-experience">
+    <section class="my-experience" id="experience">
       <div class="container">
         <div class="experience">
           <h2 class="about__title experience__title">
             Experience:
           </h2>
           <div class="experience__links">
-           <a href=" https://github.com/tarasovweb/school" class="experience__link">School</a>
+            <div class="experience__fone"></div>
+           <a href=" https://github.com/tarasovweb/school" class="experience__link">
+            <img src="./img/school.jpg" alt="school" class="experience__img">
+            <span class="experience__span">
+              онлайн-школа нумерологии
+            </span>
+            </a>
           </div>
-          <hr>
         </div>
       </div>
     </section>
-    <section class="my-lang">
+    <section class="my-lang" id="lang">
       <div class="container">
         <div class="lang">
           <h2 class="about__title lang__title">
@@ -303,7 +313,7 @@
         </div>
       </div>
     </section>
-    <section class="aboot-me code">
+    <section class="aboot-me code" id="code">
       <div class="container">
         <div class="code">
           <h2 class="about__title code__title">
@@ -356,6 +366,7 @@
   <script defer src="https://use.fontawesome.com/releases/v5.15.4/js/all.js"
     integrity="sha384-rOA1PnstxnOBLzCLMcre8ybwbTmemjzdNlILg8O7z1lUkLXozs4DHonlDtnE7fpc"
     crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
 </body>
 
 </html>
