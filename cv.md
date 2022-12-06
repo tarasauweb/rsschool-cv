@@ -47,3 +47,21 @@ My career started in 2018 as a freelancer.I'm study on a web developer in Ukrain
 
     }
 ```
+
+# Experience: 
+[School](https://github.com/tarasovweb/school "school")
+
+********************************
+
+## Courses :
+
+[Codewars](https://www.codewars.com/users/itarasovweb "codewars")
+
+[Freecodecamp](https://www.freecodecamp.org/tarasovweb "freecodecamp")
+
+[rs-school](https://rs.school/js/ "rs-school")
+
+
+## Languages :
+* Russian - Native
+* English - A1
