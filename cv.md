@@ -30,3 +30,20 @@ My career started in 2018 as a freelancer.I'm study on a web developer in Ukrain
 * BEM
  
 ********************************
+
+## Code example:
+
+```
+    function moveZeros(arr) {
+    let newArr = []
+    newArr = arr.filter((item)=>{
+        return item !== 0
+    })
+    let newArr2 = arr.filter((item)=>{
+        return item === 0
+    })
+    let newArr3 = newArr.concat(newArr2)
+    return newArr3
+
+    }
+```
