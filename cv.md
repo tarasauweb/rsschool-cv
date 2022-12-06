@@ -50,6 +50,7 @@ My career started in 2018 as a freelancer.I'm study on a web developer in Ukrain
 
 # Experience: 
 [School](https://github.com/tarasauweb/school "school")
+![photo](img/school.jpg "avatar")
 
 ********************************
 
