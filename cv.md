@@ -19,3 +19,14 @@
 My career started in 2018 as a freelancer.I'm study on a web developer in Ukraine online-school.After combined freelancing and main job.I want learn next and work front-end developer. "I was born for dev."
 
 ********************************
+## Skills :
+* HTML
+* CSS
+* JS
+* React (little)
+* Figma (for dev)
+* Git/GitHub
+* Bootstrap
+* BEM
+ 
+********************************
