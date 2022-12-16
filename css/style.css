@@ -251,6 +251,9 @@ a{
 .aducation__blocks{
     margin-top: 50px;
 }
+.my-aducation{
+    padding:50px 0;
+}
 /* contact */
 
 .contact__link{
@@ -443,9 +446,23 @@ a{
         top:10px;
     }
     .about__block{
-        
+        flex-direction: column;
     }
-    
+    .about__right{
+        width: 100%;
+        margin-top: 50px;
+        text-align: center;
+    }
+    .my-experience{
+        margin: 50px 0;
+    }
+    .aboot-me{
+        padding:50px 0;
+        padding-bottom: 0px;
+    }
+    .code__block{
+        margin-top:50px;
+    }
 }
 
 @media screen and (max-width: 576px){
