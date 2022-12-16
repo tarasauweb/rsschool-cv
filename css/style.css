@@ -251,3 +251,16 @@ a{
 .aducation__blocks{
     margin-top: 50px;
 }
+/* contact */
+
+.contact__link{
+    font-size: 18px;
+    color: #fff;
+}
+.contacts__block span{
+    display: block;
+}
+.contacts__block{
+    padding:20px 0;
+}
+/* end contact */
