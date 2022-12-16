@@ -176,3 +176,35 @@ a{
 .offer__text{
     margin-top: 30px;
 }
+/* about-me */
+.aboot-me{
+    padding-top:100px;
+    margin-bottom: 200px;
+}
+
+.about__title{
+    text-align: center;
+    font-size: 30px;
+}
+.about__block{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-top: 50px;
+    align-items: center;
+}
+.about__left{
+    width:40%
+}
+.fa-laptop-code{
+    font-size: 170px;
+    color: #3f51b5;
+}
+.about__right{
+    display: block;
+    width: 50%;
+    font-size: 20px;
+}
+.fa-laptop-code{
+    width: 300px;
+}
