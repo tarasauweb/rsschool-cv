@@ -344,3 +344,154 @@ a{
 
 
 /* end lang */
+
+/* footer */
+.footer{
+    padding:20px 0px;
+    background-color: #3f51b521;
+}
+.f-block__text{
+    font-weight: bold;
+}
+.f-block{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.f-block__links{
+    display: flex;
+    align-items: center;
+    width: 200px;
+    justify-content: space-between;
+}
+.f-block__git{
+    color: #fff;
+    font-weight: bold;
+    margin-left: 20px;
+}
+
+
+/* end footer */
+
+.overlay{
+    width: 0%;
+    height: 100vh;
+    position: absolute;
+    top:0px;
+    left:0px;
+    background-color: #3f51b5;
+    display: none;
+}
+.modal{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 250px;
+    height: 100vh;
+
+}
+
+.activeTop{
+	transform: rotate(-45deg) translate(0,10px);
+	-webkit-transform: rotate(-45deg) translate(0,10px);
+	-moz-transform: rotate(-45deg) translate(0,10px);
+	-ms-transform: rotate(-45deg) translate(0,10px);
+	-o-transform: rotate(-45deg) translate(0,10px);
+}
+.activeCenter{
+	opacity: 0;
+	display:none;
+}
+.activeBottom{
+	transform: rotate(45deg) translate(0,-10px);
+	width: 30px;
+	-webkit-transform: rotate(45deg) translate(0,-10px);
+	-moz-transform: rotate(45deg) translate(0,-10px);
+	-ms-transform: rotate(45deg) translate(0,-10px);
+	-o-transform: rotate(45deg) translate(0,-10px);
+}
+
+@media screen and (max-width: 1200px){
+    .container{
+        width: 97%;
+
+    }
+}
+
+@media screen and (max-width:768px){ 
+    .menu__item__second{
+        display: none;
+    }
+    .newMenu{
+        display: flex;
+        flex-direction: column;
+        z-index: 10;
+        margin-top: 80px;
+    }
+    .newMenu .menu__subitem{
+        margin-bottom: 20px;
+       
+        
+    }
+    .newMenu .menu__items .menu__item{
+        margin-bottom: 20px;
+    }
+    .btnMenu{
+        display: block;
+        position: absolute;
+        right:10px;
+        top:10px;
+    }
+    .about__block{
+        
+    }
+    
+}
+
+@media screen and (max-width: 576px){
+    .aducation__blocks{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+    .offer{
+        display: flex;
+        flex-direction: column;
+        margin-top: 50px;
+    }
+    .offer__right{
+        margin-top: 50px;
+    }
+    .offer__photo{
+        width: 100%;
+    }
+    .main{
+        margin-top: 200px;
+    }
+    .about__left{
+        display: none;
+    }
+    .about__right{
+        width: 100%;
+        text-align: center;
+    }
+    .aboot-me{
+        margin-bottom: 50px;
+    }
+    .code__block{
+        padding: 1px;
+    }
+    .experience__span{
+        text-align: center;
+        font-size: 30px !important;
+    }
+    .offer__left{
+        text-align: center;
+    }
+    
+    .pre-code{
+        margin-left: -100px;
+        font-size: 14px;
+    }
+}
